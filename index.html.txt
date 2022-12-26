@@ -2,5 +2,10 @@
 <html>
 <body>
 <h1>Discover hidden places in the world around you</h1>
+<a href="#">Download Excursion (comming soon)</a>
+<p> <img src="/resources/images/phone.PNG">
+<video src="/resources/videos/video.MP4">
+</p>
+<footer>##</footer>
 </body>
 </html>
